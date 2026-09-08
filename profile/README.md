@@ -9,7 +9,7 @@ Open-source tools for exploring the [Stellar](https://stellar.org) network — l
 | Product | What it is | Links |
 |---|---|---|
 | [**StellarView Explorer**](https://github.com/StellarViewOrg/stellarview-explorer) | Web block explorer for Stellar and Soroban. Fast, real-time, multi-network. | [Live](https://stellarview.acachete.xyz/) |
-| [**StellarView Indexer**](https://github.com/StellarViewOrg/stellarview-indexer) | Go service that ingests Stellar data into PostgreSQL/TimescaleDB with live event publishing. | |
+| [**StellarView Indexer**](https://github.com/StellarViewOrg/indexer) | Go service that ingests Stellar data into PostgreSQL/TimescaleDB with live event publishing. | |
 | [**StellarView TUI**](https://github.com/StellarViewOrg/stellarview-tui) | Keyboard-driven terminal block explorer for investigating Stellar data from the shell. | |
 | [**StellarView Docs**](https://github.com/StellarViewOrg/stellarview-docs) | Guides, architecture, and reference for the StellarView suite. | [Live](http://docs.stellarview.acachete.xyz/) |
 
